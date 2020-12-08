@@ -1,0 +1,1 @@
+SELECT Students FROM WHERE PostalCode IS NULL;
